@@ -33,7 +33,7 @@ To get a local copy up and running, follow these simple steps.
 
 We welcome contributions from everyone. If you're interested in helping improve the QueerOwO website, please take a look at our contributing guidelines.
 
-### License
+## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 ## Acknowledgments
